@@ -7,5 +7,6 @@ Core Capabilities:
 2.  Personalized Product Recommendations - Dynamically suggests products based on real-time customer profiling
 3.  Autonomous Decision Making - Learns optimal conversation strategies through reinforcement learning
 4  Safety-Critical Operations - Continuously monitors and verifies its own behavior for safety and fairness
+
 <img width="2821" height="479" alt="image" src="https://github.com/user-attachments/assets/24c0c176-0a72-44f7-ad72-7f69ded4ffc4" />
 
